@@ -5,7 +5,8 @@
 ### - Social Media
 [<img src='https://image.flaticon.com/icons/png/512/3955/3955011.png' alt='github' height='40'>](https://www.facebook.com/NahirasNawa/)
 [<img src='https://image.flaticon.com/icons/png/512/2504/2504925.png' alt='github' height='40'>](https://medium.com/@sercan.kaya)
-[<img src='https://image.flaticon.com/icons/png/512/3955/3955024.png' alt='github' height='40'>](https://medium.com/@sercan.kaya) 
+[<img src='https://image.flaticon.com/icons/png/512/3955/3955024.png' alt='github' height='40'>](https://www.instagram.com/seercankaya/) 
+[<img src='https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png' alt='github' height='40'>](https://www.instagram.com/seercankaya/) 
 
 
 
