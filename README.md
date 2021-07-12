@@ -15,7 +15,7 @@
 
 ### - My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SercanKaya0&exclude_repo=github-readme-stats,SercanKaya0.github.io)](https://github.com/SercanKaya0/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SercanKaya0&show_icons=true&theme=radical)
 
 
 
