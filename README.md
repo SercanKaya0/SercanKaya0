@@ -14,7 +14,6 @@
 ### - Database Knowledge
 <img alt="Firebase" src ="https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 <br/><br/>  **Familiar IDE** <br/><br/> 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/> <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
