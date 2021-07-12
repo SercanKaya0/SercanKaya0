@@ -11,7 +11,7 @@
 [<img src='https://image.flaticon.com/icons/png/512/2626/2626299.png' alt='github' height='40'>](https://stackoverflow.com/users/14912725/sercan-kaya) 
 [<img src='https://image.flaticon.com/icons/png/512/2504/2504923.png' alt='github' height='40'>](https://www.linkedin.com/in/sercan-kaya-9561641b5/) 
 
-### - Database Knowledge
+<br/><br/>  **Database Knowledge** <br/><br/> 
 <img alt="Firebase" src ="https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <br/><br/>  **Familiar IDE** <br/><br/> 
@@ -22,8 +22,7 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
-### - My Stats
-
+<br/><br/>  **Stats** <br/><br/> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SercanKaya0&show_icons=true&theme=radical)
 
 
