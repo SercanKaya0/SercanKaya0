@@ -3,4 +3,9 @@
 
 
 ### - Social Media
-[<img src='https://image.flaticon.com/icons/png/512/3955/3955011.png' alt='github' height='40'>](https://github.com/SercanKaya0) 
+[<img src='https://image.flaticon.com/icons/png/512/3955/3955011.png' alt='github' height='40'>](https://www.facebook.com/NahirasNawa/)
+[<img src='https://image.flaticon.com/icons/png/512/3670/3670068.png' alt='github' height='40'>](https://medium.com/@sercan.kaya)
+[<img src='https://image.flaticon.com/icons/png/512/3955/3955024.png' alt='github' height='40'>](https://medium.com/@sercan.kaya) 
+
+
+
