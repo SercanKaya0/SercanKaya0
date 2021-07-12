@@ -12,7 +12,7 @@
 [<img src='https://image.flaticon.com/icons/png/512/2504/2504923.png' alt='github' height='40'>](https://www.linkedin.com/in/sercan-kaya-9561641b5/) 
 
 ### - Database Knowledge
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Firebase" src ="https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-purple?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/><br/>  **Familiar IDE** <br/><br/> 
