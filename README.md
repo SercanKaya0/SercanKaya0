@@ -15,7 +15,7 @@
 
 ### - My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SercanKaya0)](https://github.com/SercanKaya0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SercanKaya0)](https://github.com/SercanKaya0/SercanKaya0)
 
 
 
