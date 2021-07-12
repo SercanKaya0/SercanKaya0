@@ -21,10 +21,12 @@
 **Version Control** <br/><br/><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="BitBucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+<img alt="GitPod" src="https://img.shields.io/badge/-GitPod-orange?style=for-the-badge&logo=gitpod&logoColor=white"/>
+
 
 <br/><br/>  **Stats** <br/><br/> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SercanKaya0&show_icons=true&theme=radical)
-
 
 
 
